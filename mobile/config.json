@@ -1,0 +1,11 @@
+{
+  "AWSAccessKeyId": "AKIAIZTB7NUTVE4J6AEA",
+  "AWSSecretAccessKey": "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",
+  "private":{
+  	"amazonS3":{
+  		"AWSAccessKeyId": "AKIAIZTB7NUTVE4J6AEA",
+  		"AWSSecretAccessKey": "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",
+  		"bucket":"tindogimage"
+  	}
+  }
+}
